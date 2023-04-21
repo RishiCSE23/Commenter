@@ -1,4 +1,4 @@
-------------------------Student ID: 4128288------------------------
+------------------------Student ID:4128288------------------------
  Abstract (6) : Good Abstract that articulates the research topic while addressing multiple perspectives to clearly warrant further research.
  Introduction (5) : Average articulated introduction that provides a logical description of content, scope, and organization of the review, which some what draws the reader’s attention to a central concern, debate, or contention.
  Research (5) : An average paper in terms of highlighting insightful gaps in the current literature that warrants further research
@@ -7,7 +7,7 @@
  Conclusion (5) : The final paper presents an average conclusion to restat e the aims and objectives of the paper while providing a summary of main findings on the research topic that clearly warrants further research
  Presentation (6) : A good presentation in terms of Visual Appeal, Comprehen sion, Presentatio n Skills and most importantly Content depth to transfer knowledge
 
-------------------------Student ID: 3534125------------------------
+------------------------Student ID:3534125------------------------
  Abstract (6) : Very good Abstract that articulates the research topic while addressing multiple perspectives to clearly warrant further research.
  Introduction (5) : Good articulated introduction that provides a clear and logical description of content, scope, and organization of the review, which draws the reader’s attention to a central concern, debate, or contention.
  Research (5) : A very well written paper in terms of highlighting insightful gaps in the current literature that clearly warrants further research
@@ -16,7 +16,7 @@
  Conclusion (5) : The final paper presents a very good conclusion to restat e the aims and objectives of the paper while providing a summary of main findings on the research topic that clearly warrants further research. 
  Presentation (6) : Excellently organised presentation in terms of Visual Appeal, Comprehen sion, Presentatio n Skills and most importantly Content depth to transfer knowledge.
 
-------------------------Student ID: 4132690------------------------
+------------------------Student ID:4132690------------------------
  Abstract (6) : Average Abstract that articulates the research topic while addressing multiple perspectives to clearly warrant further research.
  Introduction (5) : Average articulated introduction that provides a logical description of content, scope, and organization of the review, which some what draws the reader’s attention to a central concern, debate, or contention.
  Research (5) : A well written paper in terms of highlighting insightful gaps in the current literature that clearly warrants further research
@@ -25,7 +25,7 @@
  Conclusion (5) : The final paper presents an average conclusion to restat e the aims and objectives of the paper while providing a summary of main findings on the research topic that clearly warrants further research
  Presentation (6) : No Presentation
 
-------------------------Student ID: 4132766------------------------
+------------------------Student ID:4132766------------------------
  Abstract (6) : Good Abstract that articulates the research topic while addressing multiple perspectives to clearly warrant further research.
  Introduction (5) : Average articulated introduction that provides a logical description of content, scope, and organization of the review, which some what draws the reader’s attention to a central concern, debate, or contention.
  Research (5) : The paper provides limited information to highlight insightful gaps in the current literature to warrant furthe research
@@ -34,7 +34,7 @@
  Conclusion (5) : The final paper presents a basic conclusion to restat e the aims and objectives of the paper while providing a summary of main findings on the research topic
  Presentation (6) : A good presentation in terms of Visual Appeal, Comprehen sion, Presentatio n Skills and most importantly Content depth to transfer knowledge
 
-------------------------Student ID: 4127043------------------------
+------------------------Student ID:4127043------------------------
  Abstract (6) : Good Abstract that articulates the research topic while addressing multiple perspectives to clearly warrant further research.
  Introduction (5) : Average articulated introduction that provides a logical description of content, scope, and organization of the review, which some what draws the reader’s attention to a central concern, debate, or contention.
  Research (5) : A very well written paper in terms of highlighting insightful gaps in the current literature that clearly warrants further research
@@ -43,7 +43,7 @@
  Conclusion (5) : The final paper presents an average conclusion to restat e the aims and objectives of the paper while providing a summary of main findings on the research topic that clearly warrants further research
  Presentation (6) : No Presentation
 
-------------------------Student ID: 4200679------------------------
+------------------------Student ID:4200679------------------------
  Abstract (6) : Excellent Abstract that articulates the research topic while addressing multiple perspectives to clearly warrant further research.
  Introduction (5) : Very good articulated introduction that provides a clear and logical description of content, scope, and organization of the review, which draws the reader’s attention to a central concern, debate, or contention
  Research (5) : A very well written paper in terms of highlighting insightful gaps in the current literature that clearly warrants further research
@@ -52,7 +52,7 @@
  Conclusion (5) : The final paper presents a very good conclusion to restat e the aims and objectives of the paper while providing a summary of main findings on the research topic that clearly warrants further research. 
  Presentation (6) : An exceptionally well organised presentation in terms of Visual Appeal, Comprehensi on, Presentation Skills and most importantly Content depth to transfer knowledge subheadings
 
-------------------------Student ID: 4142086------------------------
+------------------------Student ID:4142086------------------------
  Abstract (6) : Average Abstract that articulates the research topic while addressing multiple perspectives to clearly warrant further research.
  Introduction (5) : Good articulated introduction that provides a clear and logical description of content, scope, and organization of the review, which draws the reader’s attention to a central concern, debate, or contention.
  Research (5) : An average paper in terms of highlighting insightful gaps in the current literature that warrants further research
@@ -61,7 +61,7 @@
  Conclusion (5) : The final paper presents an average conclusion to restat e the aims and objectives of the paper while providing a summary of main findings on the research topic that clearly warrants further research
  Presentation (6) : No Presentation
 
-------------------------Student ID: 4142117------------------------
+------------------------Student ID:4142117------------------------
  Abstract (6) : Average Abstract that articulates the research topic while addressing multiple perspectives to clearly warrant further research.
  Introduction (5) : Average articulated introduction that provides a logical description of content, scope, and organization of the review, which some what draws the reader’s attention to a central concern, debate, or contention.
  Research (5) : A well written paper in terms of highlighting insightful gaps in the current literature that clearly warrants further research
@@ -70,7 +70,7 @@
  Conclusion (5) : The final paper presents an average conclusion to restat e the aims and objectives of the paper while providing a summary of main findings on the research topic that clearly warrants further research
  Presentation (6) : Average presentation in terms of Visual Appeal, Comprehen sion, Presentatio n Skills and most importantly Content depth to transfer knowledge.
 
-------------------------Student ID: 4142630------------------------
+------------------------Student ID:4142630------------------------
  Abstract (6) : Very good Abstract that articulates the research topic while addressing multiple perspectives to clearly warrant further research.
  Introduction (5) : Very good articulated introduction that provides a clear and logical description of content, scope, and organization of the review, which draws the reader’s attention to a central concern, debate, or contention
  Research (5) : An excellently written paper in terms of highlighting insightful gaps in the current literature that clearly warrants 
@@ -80,7 +80,7 @@ further research to create new knowledge.
  Conclusion (5) : The final paper presents a very good conclusion to restat e the aims and objectives of the paper while providing a summary of main findings on the research topic that clearly warrants further research. 
  Presentation (6) : Excellently organised presentation in terms of Visual Appeal, Comprehen sion, Presentatio n Skills and most importantly Content depth to transfer knowledge.
 
-------------------------Student ID: 4127856------------------------
+------------------------Student ID:4127856------------------------
  Abstract (6) : Good Abstract that articulates the research topic while addressing multiple perspectives to clearly warrant further research.
  Introduction (5) : Very good articulated introduction that provides a clear and logical description of content, scope, and organization of the review, which draws the reader’s attention to a central concern, debate, or contention
  Research (5) : A well written paper in terms of highlighting insightful gaps in the current literature that clearly warrants further research
@@ -90,7 +90,7 @@ further research to create new knowledge.
 further research.
  Presentation (6) : An exceptionally well organised presentation in terms of Visual Appeal, Comprehensi on, Presentation Skills and most importantly Content depth to transfer knowledge subheadings
 
-------------------------Student ID: 4200664------------------------
+------------------------Student ID:4200664------------------------
  Abstract (6) : Good Abstract that articulates the research topic while addressing multiple perspectives to clearly warrant further research.
  Introduction (5) : Very good articulated introduction that provides a clear and logical description of content, scope, and organization of the review, which draws the reader’s attention to a central concern, debate, or contention
  Research (5) : An average paper in terms of highlighting insightful gaps in the current literature that warrants further research
@@ -108,7 +108,7 @@ further research.
  Conclusion (5) : The final paper presents a very good conclusion to restat e the aims and objectives of the paper while providing a summary of main findings on the research topic that clearly warrants further research. 
  Presentation (6) : A very good presentation in terms of Visual Appeal, Comprehen sion, Presentatio n Skills and most importantly Content depth to transfer knowledge
 
-------------------------Student ID: 4200162------------------------
+------------------------Student ID:4200162------------------------
  Abstract (6) : Abstract that vaguely articulates the research topic while addressing multiple perspectives to warrant further research.
  Introduction (5) : Average articulated introduction that provides a logical description of content, scope, and organization of the review, which some what draws the reader’s attention to a central concern, debate, or contention.
  Research (5) : An average paper in terms of highlighting insightful gaps in the current literature that warrants further research
@@ -117,7 +117,7 @@ further research.
  Conclusion (5) : The final paper presents an average conclusion to restat e the aims and objectives of the paper while providing a summary of main findings on the research topic that clearly warrants further research
  Presentation (6) : Average presentation in terms of Visual Appeal, Comprehen sion, Presentatio n Skills and most importantly Content depth to transfer knowledge.
 
-------------------------Student ID: 4200157------------------------
+------------------------Student ID:4200157------------------------
  Abstract (6) : Good Abstract that articulates the research topic while addressing multiple perspectives to clearly warrant further research.
  Introduction (5) : A very basic articulated introduction that provides description of content, scope, and organization of the review, which does not draw the reader’s attention to a central concern, debate, or contention
  Research (5) : A very well written paper in terms of highlighting insightful gaps in the current literature that clearly warrants further research
@@ -126,7 +126,7 @@ further research.
  Conclusion (5) : The final paper presents an average conclusion to restat e the aims and objectives of the paper while providing a summary of main findings on the research topic that clearly warrants further research
  Presentation (6) : A good presentation in terms of Visual Appeal, Comprehen sion, Presentatio n Skills and most importantly Content depth to transfer knowledge
 
-------------------------Student ID: 4142372------------------------
+------------------------Student ID:4142372------------------------
  Abstract (6) : Excellent Abstract that articulates the research topic while addressing multiple perspectives to clearly warrant further research.
  Introduction (5) : Excellently articulated introduction that provides a clear and logical description of content, scope, and organization of the review, which draws the reader’s attention to a central concern, debate, or contention
  Research (5) : A very well written paper in terms of highlighting insightful gaps in the current literature that clearly warrants further research
@@ -135,7 +135,7 @@ further research.
  Conclusion (5) : The final paper presents an excellent conclusion to restat e the aims and objectives of the paper while providing a summary of main findings on the research topic that clearly warrants further research. 
  Presentation (6) : A very good presentation in terms of Visual Appeal, Comprehen sion, Presentatio n Skills and most importantly Content depth to transfer knowledge
 
-------------------------Student ID: 4142312------------------------
+------------------------Student ID:4142312------------------------
  Abstract (6) : Very good Abstract that articulates the research topic while addressing multiple perspectives to clearly warrant further research.
  Introduction (5) : Very good articulated introduction that provides a clear and logical description of content, scope, and organization of the review, which draws the reader’s attention to a central concern, debate, or contention
  Research (5) : An excellently written paper in terms of highlighting insightful gaps in the current literature that clearly warrants 
@@ -145,7 +145,7 @@ further research to create new knowledge.
  Conclusion (5) : The final paper presents an excellent conclusion to restat e the aims and objectives of the paper while providing a summary of main findings on the research topic that clearly warrants further research. 
  Presentation (6) : An exceptionally well organised presentation in terms of Visual Appeal, Comprehensi on, Presentation Skills and most importantly Content depth to transfer knowledge subheadings
 
-------------------------Student ID: 4142369------------------------
+------------------------Student ID:4142369------------------------
  Abstract (6) : Good Abstract that articulates the research topic while addressing multiple perspectives to clearly warrant further research.
  Introduction (5) : Very good articulated introduction that provides a clear and logical description of content, scope, and organization of the review, which draws the reader’s attention to a central concern, debate, or contention
  Research (5) : A very well written paper in terms of highlighting insightful gaps in the current literature that clearly warrants further research
@@ -154,7 +154,7 @@ further research to create new knowledge.
  Conclusion (5) : The final paper presents a very good conclusion to restat e the aims and objectives of the paper while providing a summary of main findings on the research topic that clearly warrants further research. 
  Presentation (6) : No Presentation
 
-------------------------Student ID: 4135663------------------------
+------------------------Student ID:4135663------------------------
  Abstract (6) : Very good Abstract that articulates the research topic while addressing multiple perspectives to clearly warrant further research.
  Introduction (5) : Good articulated introduction that provides a clear and logical description of content, scope, and organization of the review, which draws the reader’s attention to a central concern, debate, or contention.
  Research (5) : An average paper in terms of highlighting insightful gaps in the current literature that warrants further research
@@ -163,7 +163,7 @@ further research to create new knowledge.
  Conclusion (5) : The final paper presents a very good conclusion to restat e the aims and objectives of the paper while providing a summary of main findings on the research topic that clearly warrants further research. 
  Presentation (6) : A good presentation in terms of Visual Appeal, Comprehen sion, Presentatio n Skills and most importantly Content depth to transfer knowledge
 
-------------------------Student ID: 4126554------------------------
+------------------------Student ID:4126554------------------------
  Abstract (6) : Very good Abstract that articulates the research topic while addressing multiple perspectives to clearly warrant further research.
  Introduction (5) : Very good articulated introduction that provides a clear and logical description of content, scope, and organization of the review, which draws the reader’s attention to a central concern, debate, or contention
  Research (5) : A very well written paper in terms of highlighting insightful gaps in the current literature that clearly warrants further research
@@ -172,7 +172,7 @@ further research to create new knowledge.
  Conclusion (5) : The final paper presents a very good conclusion to restat e the aims and objectives of the paper while providing a summary of main findings on the research topic that clearly warrants further research. 
  Presentation (6) : Excellently organised presentation in terms of Visual Appeal, Comprehen sion, Presentatio n Skills and most importantly Content depth to transfer knowledge.
 
-------------------------Student ID: 4200316------------------------
+------------------------Student ID:4200316------------------------
  Abstract (6) : Very good Abstract that articulates the research topic while addressing multiple perspectives to clearly warrant further research.
  Introduction (5) : A very basic articulated introduction that provides description of content, scope, and organization of the review, which does not draw the reader’s attention to a central concern, debate, or contention
  Research (5) : An average paper in terms of highlighting insightful gaps in the current literature that warrants further research
@@ -181,7 +181,7 @@ further research to create new knowledge.
  Conclusion (5) : The final paper presents an average conclusion to restat e the aims and objectives of the paper while providing a summary of main findings on the research topic that clearly warrants further research
  Presentation (6) : No Presentation
 
-------------------------Student ID: 4200187------------------------
+------------------------Student ID:4200187------------------------
  Abstract (6) : Average Abstract that articulates the research topic while addressing multiple perspectives to clearly warrant further research.
  Introduction (5) : Good articulated introduction that provides a clear and logical description of content, scope, and organization of the review, which draws the reader’s attention to a central concern, debate, or contention.
  Research (5) : An average paper in terms of highlighting insightful gaps in the current literature that warrants further research
@@ -190,7 +190,7 @@ further research to create new knowledge.
  Conclusion (5) : The final paper presents a basic conclusion to restat e the aims and objectives of the paper while providing a summary of main findings on the research topic
  Presentation (6) : No Presentation
 
-------------------------Student ID: 4142407------------------------
+------------------------Student ID:4142407------------------------
  Abstract (6) : Good Abstract that articulates the research topic while addressing multiple perspectives to clearly warrant further research.
  Introduction (5) : Good articulated introduction that provides a clear and logical description of content, scope, and organization of the review, which draws the reader’s attention to a central concern, debate, or contention.
  Research (5) : A very well written paper in terms of highlighting insightful gaps in the current literature that clearly warrants further research
@@ -199,7 +199,7 @@ further research to create new knowledge.
  Conclusion (5) : The final paper presents a very good conclusion to restat e the aims and objectives of the paper while providing a summary of main findings on the research topic that clearly warrants further research. 
  Presentation (6) : A good presentation in terms of Visual Appeal, Comprehen sion, Presentatio n Skills and most importantly Content depth to transfer knowledge
 
-------------------------Student ID: 4142349------------------------
+------------------------Student ID:4142349------------------------
  Abstract (6) : Basic Abstract that articulates the research topic while addressing multiple perspectives to warrant further research.
  Introduction (5) : Average articulated introduction that provides a logical description of content, scope, and organization of the review, which some what draws the reader’s attention to a central concern, debate, or contention.
  Research (5) : Poorly written paper in terms of highlighting insightful gaps in the current literature to warrant further research
@@ -208,7 +208,7 @@ further research to create new knowledge.
  Conclusion (5) : No conclusion section.
  Presentation (6) : Basic presentation in terms of Visual Appeal, Comprehen sion, Presentatio n Skills and most importantly Content depth to transfer knowledge.
 
-------------------------Student ID: 4141961------------------------
+------------------------Student ID:4141961------------------------
  Abstract (6) : Very good Abstract that articulates the research topic while addressing multiple perspectives to clearly warrant further research.
  Introduction (5) : Very good articulated introduction that provides a clear and logical description of content, scope, and organization of the review, which draws the reader’s attention to a central concern, debate, or contention
  Research (5) : A very well written paper in terms of highlighting insightful gaps in the current literature that clearly warrants further research
